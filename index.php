@@ -1,7 +1,7 @@
-<?php $company = "EL CESAR RESTAURANT & BAR";
-$phone = "(978) 794-8169";
-	$address1 = "99 ESSEX ST";
-	$address2 = "LAWRENCE, MA 01840";
+<?php $company = "ABILITY AIR & HEAT";
+$phone = "(727) 341-9007";
+	$address1 = "320 N BETTY LN";
+	$address2 = "CLEARWATER, FL 33755";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -73,7 +73,7 @@ $phone = "(978) 794-8169";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Contact us</h3>
+                <h3 class="u-text u-text-7">Hello!</h3>
                 <h6 class="u-text u-text-8">Tell us about your project!</h6>
               </div>
             </div>
